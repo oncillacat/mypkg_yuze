@@ -1,7 +1,8 @@
-
 # prac
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/oncillacat/mypkg_yuze/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/oncillacat/mypkg_yuze/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of prac is to test how to do the r package
@@ -23,4 +24,3 @@ This is a basic example which shows you how to solve a common problem:
 library(prac)
 ## basic example code
 ```
-
